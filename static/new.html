@@ -1,0 +1,87 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sketchfab Viewer API example</title>
+
+    <script type="text/javascript" src="https://static.sketchfab.com/api/sketchfab-viewer-1.5.1.js"></script>
+    <style>
+    // Hidden class
+    .hidden {
+        visibility: hidden;
+        height: 0;
+        width: 0;
+    }
+    </style>
+</head>
+
+<body>
+        <div class="buttons">
+            <button id="south east">sth east</button>
+            <button id="left">nth west</button>
+            <button id="right">nth east</button>
+        </div>
+  <!-- Insert an empty iframe, hidden by default using a class-->
+  <iframe src="" id="api-frame" allow="autoplay; fullscreen; vr" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" class="hidden"></iframe>
+
+  <!-- Initialize the viewer -->
+  <script type="text/javascript">
+
+    var iframe = document.getElementById( 'api-frame' );
+
+        var uid = '1bf35dfad2654016a105b529b8d45a0a';
+        var client = null;
+
+        function loadmodel(){
+            document.addEventListener('load', () => console.log( 'viewerready' ))
+
+            // By default, the latest version of the viewer API will be used.
+            var client = new Sketchfab( iframe );
+
+            // Alternatively, you can request a specific version.
+            // var client = new Sketchfab( '1.0.0', iframe );
+
+            client.init( uid, {
+                success: function onSuccess( api ){
+                    console.log( 'Success' );
+                    api.load();
+                    api.start();
+
+                    api.addEventListener( 'viewerready', function() {
+                        console.log( 'Viewer is ready' );
+                        // once the viewer is ready, show the iframe
+                        let $apiFrame = document.getElementById( 'api-frame' );
+                        $apiFrame.classList.remove( 'hidden' ); // Remove hidden class
+                    } );
+                },
+                error: function onError( callback ){
+                    console.log( this.error );
+                }
+            } );
+        };
+		    oneButton = document.getElementById( 'south east' ),
+            leftButton = document.getElementById( 'left' ),
+            rightButton = document.getElementById( 'right' ),
+			target = [ 47, 12, 20 ],
+            cameraLeft = [ 24, 12, 19 ],
+            cameraRight = [ 49, 41, 18 ],
+            cameraOne = [ 79, 21, 18 ],
+		loadmodel()
+		        oneButton.addEventListener( 'click', function() {
+            api.setCameraLookAt( cameraOne, target );
+        });
+
+        leftButton.addEventListener( 'click', function() {
+            api.setCameraLookAt( cameraLeft, target );
+        });
+
+        rightButton.addEventListener( 'click', function() {
+            api.setCameraLookAt( cameraRight, target );
+        });
+  </script>
+
+
+</body>
+
+</html>
