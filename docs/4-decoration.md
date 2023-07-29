@@ -16,7 +16,7 @@ Another possibility is looking at old archival photographs of houses of similar 
 Here are some photos from the Auckland Council archives. As you can see there is a lot of variation in the amount of decoration present even though the houses are quite similar. 
 
 <figure>
-  <p><img src="https://akheritage.ts.r.appspot.com/img/01_deco.jpg" >
+  <p><img src="https://akheritage.ts.r.appspot.com/img/01_deco.jpg"/></p>
   <figcaption>The first is a square front villa in Mount Eden. It has the works; brackets, balustrades, fretwork, polychrome brick chimneys, basalt rock wall and decorative boundary fence. </figcaption>
 </figure>
 
@@ -24,21 +24,21 @@ Here are some photos from the Auckland Council archives. As you can see there is
 The arrangement of gates is typical for villas; a small pedestrian gate on axis with the hall and front door, with a path. There is a larger access gate for vehicles (horse drawn initially) at the side of the house. 
 
 <figure>
-  <p><img src="https://akheritage.ts.r.appspot.com/img/02_deco.jpg" >
+  <p><img src="https://akheritage.ts.r.appspot.com/img/02_deco.jpg"/></p>
   <figcaption>The second example is a bay villa, less decorated, no doubt because of cost. </figcaption>
 </figure>
 
 ---
 
 <figure>
-  <p><img src="https://akheritage.ts.r.appspot.com/img/03_deco.jpg" >
+  <p><img src="https://akheritage.ts.r.appspot.com/img/03_deco.jpg"/></p>
   <figcaption>Another bay villa, even less decorated. The finial detail, placed back from the gable, is unusual.  </figcaption>
 </figure>
 
 ----
 
 <figure>
-  <p><img src="https://akheritage.ts.r.appspot.com/img/04_deco.jpg" >
+  <p><img src="https://akheritage.ts.r.appspot.com/img/04_deco.jpg"/></p>
   <figcaption>A grand villa owned by the Fairbairn family, in Remuera.  </figcaption>
 </figure>
 

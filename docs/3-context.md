@@ -30,7 +30,7 @@ At times, there will be little to be gained by a careful look at on and off site
 On other occasions these will be very important and a full and careful analysis will be helpful in getting to the best possible design. Areas where character and heritage architecture are strongly present would fit this case.
 
 <figure>
-  <p><img src="https://akheritage.ts.r.appspot.com/img/08context.jpg">
+  <p><img src="https://akheritage.ts.r.appspot.com/img/08context.jpg"/></p>
   <figcaption>Hand drawn strip of street elevations, existing </figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ On other occasions these will be very important and a full and careful analysis 
 New buildings, substantial alterations, or changes to the parts of a character building near the street  will need more careful analysis than proposals for buildings which are not easily viewed from public places, or do not have character and heritage buildings around them.
 
 <figure>
-  <p><img src="https://akheritage.ts.r.appspot.com/img/10context.jpg">
+  <p><img src="https://akheritage.ts.r.appspot.com/img/10context.jpg"/></p>
   <figcaption>Hand drawn block plan </figcaption>
 </figure>
 
@@ -67,14 +67,14 @@ There is a quote from a good and very funny article on this issue.
 Corbusier is a clear example of a modernism that seeks an erasure of everything that has gone before it. 
 
 <figure>
-  <p><img src="https://akheritage.ts.r.appspot.com/img/05context.jpg" >
+  <p><img src="https://akheritage.ts.r.appspot.com/img/05context.jpg"/></p>
   <figcaption>Make way Paris, for this.  </figcaption>
 </figure>
 
 ----
 
 <figure>
-  <p><img src="https://akheritage.ts.r.appspot.com/img/06context.jpg" >
+  <p><img src="https://akheritage.ts.r.appspot.com/img/06context.jpg"/></p>
   <figcaption>Look out Algiers.  </figcaption>
 </figure>
 
@@ -83,28 +83,28 @@ Corbusier is a clear example of a modernism that seeks an erasure of everything 
 We have our own example in Auckland. Sadly ours, to an unfortunate degree, proceeded, unlike the above examples. The images mostly date from the early 1960's. The image of Greys Avenue is earlier.
 
 <figure>
-  <p><img src="https://akheritage.ts.r.appspot.com/img/07context.jpg" >
+  <p><img src="https://akheritage.ts.r.appspot.com/img/07context.jpg"/></p>
   <figcaption>Lets erase in the CBD! This was the compromise scheme leaving the civic and town hall in place.It was to a large degree built. </figcaption>
 </figure>
 
 ----
 
 <figure>
-  <p><img src="https://akheritage.ts.r.appspot.com/img/12context.jpg" >
+  <p><img src="https://akheritage.ts.r.appspot.com/img/12context.jpg"/></p>
   <figcaption>Greys Avenue and the town hall, before. The town hall remains in the image above, so can be used for orientation. </figcaption>
 </figure>
 
 ----
 
 <figure>
-  <p><img src="https://akheritage.ts.r.appspot.com/img/14context.jpg" >
+  <p><img src="https://akheritage.ts.r.appspot.com/img/14context.jpg"/></p>
   <figcaption>A closer view. </figcaption>
 </figure>
 
 ----
 
 <figure>
-  <p><img src="https://akheritage.ts.r.appspot.com/img/11context.jpg" >
+  <p><img src="https://akheritage.ts.r.appspot.com/img/11context.jpg"/></p>
   <figcaption>Here comes the motorway. </figcaption>
 </figure>
 

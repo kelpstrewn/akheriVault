@@ -104,7 +104,7 @@ Despite the early entrance in the field of the New Zealand Institute of Architec
 The carbon footprint of the New Zealand house has grown rather rapidly over the last 25 years. In 1993 a [paper](https://akheritage.site/heritage/1993.pdf) was written as a response to global warming, addressing the contribution of the building sector to the problem.  
 
 <figure>
-  <p><img src="https://akheritage.ts.r.appspot.com/img/gghg7.png" >
+  <p><img src="https://akheritage.ts.r.appspot.com/img/gghg7.png"/></p>
   <figcaption>House sizes over time. The Christie [plan](https://akheritage.site/heritage/christie.pdf) is provided as a pdf. It was published in 1915.</figcaption>
 </figure>
 
@@ -120,14 +120,14 @@ This is also without accounting for increased emissions associated with the grea
 The counter argument would be that these gains associated with better insulation and heat pumps are not real, as people have increased their use of heat markedly. The traditional pattern for heating in New Zealand was to heat occupied spaces only. Bedrooms were not heated. Living areas were heated in mornings and evenings only. Firewood was the primary heat source.   There is evidence for all these assertions in the building fabric that survives from earlier periods.  
 
 <figure>
-  <p><img src="https://akheritage.ts.r.appspot.com/img/gghg1.jpg" >
+  <p><img src="https://akheritage.ts.r.appspot.com/img/gghg1.jpg"/></p>
   <figcaption>Steady state heating, from Nalanie Mithraratne, Brenda Vale and Robert Vale. Sustainable Living - The role of whole life costs and values. </figcaption>
 </figure>
 
 ---
 
 <figure>
-  <p><img src="https://akheritage.ts.r.appspot.com/img/gghg2.jpg" >
+  <p><img src="https://akheritage.ts.r.appspot.com/img/gghg2.jpg"/></p>
   <figcaption>Intermittent heating, Sustainable Living - The role of whole life costs and values. </figcaption>
 </figure>
 
@@ -143,7 +143,7 @@ They expand on changing domestic arrangements in the introductory chapter to the
 Focussing, the retention and reuse of old buildings, and good maintenance, can be a part of the solutions picture. It seems that the building of a  timber framed New Zealand house of 1 and a half storeys of 195 m2 will emit 3000kg of carbon.  A concrete house will emit 12000kg. These figures are quite assumption dependent and are arguable only.
 
 <figure>
-  <p><img src="https://akheritage.ts.r.appspot.com/img/gghg3.jpg" >
+  <p><img src="https://akheritage.ts.r.appspot.com/img/gghg3.jpg"/></p>
   <figcaption>Life cycle carbon emissions.</figcaption>
 </figure>
 
