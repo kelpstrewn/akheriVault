@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/7- 3d_models.md",
+                "file": "docs/8-building_recording.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/7- 3d_models.md",
+                "file": "docs/8-building_recording.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/7- 3d_models.md",
+                "file": "docs/8-building_recording.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/7- 3d_models.md"
+                "file": "docs/8-building_recording.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "839ee127c732d2be",
   "lastOpenFiles": [
+    "docs/7- 3d_models.md",
     "docs/6-drawing_joinery.md",
     "assets/heritage/drawing_joinery/traditional_timber_joinery-double_hung_fancy_architrave.pdf",
     "docs/8-building_recording.md",
