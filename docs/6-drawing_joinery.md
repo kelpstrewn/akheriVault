@@ -38,10 +38,8 @@ To continue the example I would like to carry on the discussion of an output dra
 2. The sash rails and stiles will be partially visible and there is generally a variation in depth between the rails at the bottom and the centre. 
 3. A fair bit of detail should be left out at a scale 1:100, such as scribers, putty lines and detail associated with the sill profile.
 
-<figure>
-  <p><img src="https://akheritage.ts.r.appspot.com/img/drawing_joinery02.jpg">
-  <figcaption>Casement windows - bungalow period.</a></figcaption>
-</figure>
+![drawing_joinery01](../assets/drawing_joinery02.JPG)
+*casement windows - bungalow period.
 
 ## Good draughting practice generally ##
 When I first began in architecture, my grandfather, a successful building contractor with an interest in design, gave me a book he had used in designing a house for himself. This book was [Draughtsmanship](/img/https://books.google.co.nz/books/about/Draughtsmanship.html?id=9fm9QAAACAAJ&redir_esc=y) by Fraser Reekie. I still refer to this on occasion and the principles of good drafting practice given here are still valid. Interestingly, with the rise in the internet a wide variety of traditional drafting instruction books are now available for free. Through the Internet archive these have been scanned, and made available for download, as they are out of copyright. Here are links to some of these. 
@@ -56,16 +54,16 @@ When I first began in architecture, my grandfather, a successful building contra
 
 ## Drawings for download ##
   
-<figure>
-  <p><img src="https://akheritage.ts.r.appspot.com/img/drawing_joinery04.jpg">
-  <figcaption>Paired and multiple double hung windows.</a></figcaption>
-
-    
-For young architects and designers preparing drawings of old Auckland houses I am providing some pdf files and dxf files for download. These can be used as a starting point when representing a building at the common elevation scale of 1:100. I'll put more of these up in this page, with comments, as I develop them. These are in part measured and drawn by me, and in part redrawn, referring to an old manufacturers catalogue, which is no longer available. 
+![drawing_joinery04](../assets/drawing_joinery04.JPG)
+*Paired and multiple double hung windows.
+  
+These drawings can be used as a starting point when representing a building at the common elevation scale of 1:100. 
 
 A further excellent resource, which includes sketch construction detail for traditional windows can be found [here](/img/https://www.renovate.org.nz/villa/windows-doors-other-joinery-and-hardware/windows/), on the Branz Renovate website. 
 
-<a href="/heritage/drawing_joinery/traditional_timber_joinery-double_hung_divided_light.pdf"> double hung divided light pdf </a>
+[traditional_timber_joinery-double_hung_pair](../assets/heritage/drawing_joinery/traditional_timber_joinery-double_hung_pair.pdf)
+
+[[dxf]]
 
 <a href="/heritage/drawing_joinery/traditional_timber_joinery-double_hung_divided_light.dxf"> double hung divided light dxf </a>
 
