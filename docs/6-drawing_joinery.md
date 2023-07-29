@@ -57,22 +57,20 @@ When I first began in architecture, my grandfather, a successful building contra
 ![drawing_joinery04](../assets/drawing_joinery04.JPG)
 *Paired and multiple double hung windows.
   
-These drawings can be used as a starting point when representing a building at the common elevation scale of 1:100. 
+These drawings can be used as a starting point when representing a building at the common elevation scale of 1:100. The provided dxf files will work with most cad software.
 
 A further excellent resource, which includes sketch construction detail for traditional windows can be found [here](/img/https://www.renovate.org.nz/villa/windows-doors-other-joinery-and-hardware/windows/), on the Branz Renovate website. 
 
 [traditional_timber_joinery-double_hung_pair](../assets/heritage/drawing_joinery/traditional_timber_joinery-double_hung_pair.pdf)
+[traditional_timber_joinery-double_hung_pair dxf](../assets/heritage/drawing_joinery/traditional_timber_joinery-double_hung_pair.dxf)
 
-[[dxf]]
+[traditional_timber_joinery-bungalow_casements](../assets/heritage/drawing_joinery/traditional_timber_joinery-bungalow_casements.pdf)
+[traditional_timber_joinery-bungalow_casements dxf](../assets/heritage/drawing_joinery/traditional_timber_joinery-bungalow_casements.dxf)
 
-<a href="/heritage/drawing_joinery/traditional_timber_joinery-double_hung_divided_light.dxf"> double hung divided light dxf </a>
+[traditional_timber_joinery-double_hung_divided_light](../assets/heritage/drawing_joinery/traditional_timber_joinery-double_hung_divided_light.pdf)
+[traditional_timber_joinery-double_hung_divided_light dxf](../assets/heritage/drawing_joinery/traditional_timber_joinery-double_hung_divided_light.dxf)
 
-<a href="/heritage/drawing_joinery/traditional_timber_joinery-bungalow_casements.pdf"> bungalow casement pdf </a>
-
-<a href="/heritage/drawing_joinery/traditional_timber_joinery-bungalow_casements.dxf"> bungalow casement dxf </a>
-
-<a href="/heritage/drawing_joinery/traditional_timber_joinery-double_hung_pair.pdf"> double hung pair and triple pdf </a>
-
-<a href="/heritage/drawing_joinery/traditional_timber_joinery-double_hung_pair.dxf"> double hung pair and triple dxf </a>
+[traditional_timber_joinery-double_hung_fancy_architrave](../assets/heritage/drawing_joinery/traditional_timber_joinery-double_hung_fancy_architrave.pdf)
+[traditional_timber_joinery-double_hung_fancy_architrave dxf](../assets/heritage/drawing_joinery/traditional_timber_joinery-double_hung_fancy_architrave.dxf)
 
 
