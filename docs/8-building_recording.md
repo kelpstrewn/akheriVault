@@ -22,9 +22,14 @@ Poor results are obtained when there are difficulties getting multiple unobscure
 
 The models below are large files, fast uncapped connection needed.
 
+<div class="sketchfab-embed-wrapper"> <iframe title="Kohekohe Church" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/eee29ce3211d4dcc9fd96e9d529e05c0/embed"> </iframe> </div>
+*Kohekohe Church*
 
+<div class="sketchfab-embed-wrapper"> <iframe title="Catalina Barracks" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/677e05f6f3f7438db8977337b4b4a912/embed"> </iframe> </div>
+*Catalina Barracks, Whenuapai Air Base, now demolished*
 
-
+<div class="sketchfab-embed-wrapper"> <iframe title="Demolished deco house Titirangi" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/da96d98130f64efc90b921052256c50f/embed"> </iframe> </div>
+*Deco house, Titirangi, now demolished*
 
 ## Cyark
 
