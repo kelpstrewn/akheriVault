@@ -5,18 +5,18 @@ title: Context analysis; a step in altering an old house?
 ## Good old drawings ##
 These are drawings by Edward Ashworth, which date from the 1840's, before photography. Mr Ashworth recorded these while travelling the new colony, no doubt to remind him of his trip, and as a way of sharing his experiences with others. His drawing style is that of a natural draughtsman, unfussy, and with clear communication being foremost. Absolute accuracy was less important than capturing the essentials. 
 
-![context](/img/01context.jpg)
+![context](../assets/01context.jpg)
 
 This image of the harbour and Rangitoto shows this, Rangitoto and the other volcanic maunga are not quite like this if traced from a photograph. But in essence they are fundamental part of Tamaki Makarau  Auckland as a place, and so showing them like this makes sense.
 
 I like this drawing of Princes St for its plain delineation of simple timber box houses, and some charming incidental detail.
 
-![context](/img/04context.jpg)
+![context](../assets/04context.jpg)
 
 This last one is closer to the point of what I have to say here. A wide view of a whole locality, that is somewhat similar to a scaled strip of elevations, it is a powerful record of Kororareka before the fire. It appeared as a piece to fill in a left over strip in Mr Ashworth's journal, below a drawing of the seat of government. The full
 image is ringed in red, and below that it scrolls by, at larger scale.
 
-![context](/img/02context.jpg)
+![context](../assets/02context.jpg)
 
 <div class="resp-container">
     <iframe class="resp-iframe" src="https://akheritage.ts.r.appspot.com/svg/koro.html" ></iframe>
@@ -110,5 +110,5 @@ We have our own example in Auckland. Sadly ours, to an unfortunate degree, proce
 
 But, getting back to where we started, the question arises, was architecture ever important here? The image of pragmatic, quickly built wooden boxes in a sublime landscape is a founding one for Pakeha. The landscape arguably remains fairly sublime, the boxes are now bigger, but still gimcrack.
 
-![context](/img/01context.jpg)
-![context](/img/13context.jpg)
+![context](../assets/01context.jpg)
+![context](../assets/13context.jpg)

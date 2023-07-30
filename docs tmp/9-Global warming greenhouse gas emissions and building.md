@@ -2,10 +2,10 @@
 id: GGHG
 title: GGHG and old houses
 ---
-I have, for a while, been thinking about writing on gross greenhouse gas (GGHG) emissions associated with housing, as part of this old buildings wiki. Today, 5th September 2018, an important report on NZ's [response to global warming](https://www.productivity.govt.nz/sites/default/files/Productivity%20Commission_Low-emissions%20economy_Final%20Report_FINAL_0.pdf) has come out, as well as some very [disconcerting science](http://www.pnas.org/content/early/2018/07/31/1810141115). It seemed like a good time to go ahead. 
+
 
 ## The issue ## 
-To start, clearly the productivity commission's response is inadequate, none of us are doing enough, and we are all complicit here. How much is enough? There seems to be general agreement that 2000kg C02 [per person per year](http://www.gci.org.uk/CBAT_AUBREY/CBAT/index.html#domain-2) is the sustainable level. Most of us cause the emission of 5 to 10 times this amount in a year. 
+None of us are doing enough to prevent global warming greenhouse gas emissions, and we are all complicit here. How much is enough? There seems to be general agreement that 2000kg C02 [per person per year](http://www.gci.org.uk/CBAT_AUBREY/CBAT/index.html#domain-2) is the sustainable level. Most of us cause the emission of 5 to 10 times this amount in a year. 
  
 A long haul flight such as a flight to London and back to Auckland will use 2.5 times a persons annual C02 emission quota, without them doing anything else; living in a house, eating, driving or dressing themselves. There is in the big picture, there is a long way to go. 
  
