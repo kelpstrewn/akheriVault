@@ -7,12 +7,11 @@ Conservation architects, architectural historians and urban historians are all i
  
 An advisory document for building recording in New Zealand is "Investigation and Recording of Buildings and Standing Structures". It is still available from Heritage New Zealand [here](/img/http://www.heritage.org.nz/~/-/media/bd20738fc99e4f69bec8cec6395b251a.ashx). The document is dated 2006 and has been assigned an isbn number, 978-0-908577-91-0 (online). Authorship is not stated, but an archaeologist employed by the trust, Martin Jones, is thought to be largely responsible.
 
-The document describes methods of recording and appropriate levels or intensity of recording from level one to level four.The methods suggested are traditional and paper based. Film photography and the use of 4H pencil on permatrace for the preparation of manual drawings are privileged. This national guidance advisory does not advise with regard to the fate of the data gathered, and who the data should be accessed by.
 
 ## Structure from motion
 Structure from motion (sfm) is a technique that is a development of photogrammery. Multiple photographs from different viewpoints are taken. These are taken into a digital environment and software is used to automatically calculate the viewpoint from which each photo was taken. The software then matches points from photo to photo, and use this information to calculate the 3d coordinates of each point. The software is then able to make a 3d mesh based on the point cloud and to apply a texture to the mesh.
 
-The resulting model is scale indeterminate. It is then imported into 3d mesh manipulation software such as cloudcomparee or even sketchup. Here, the model can be scaled, according to reference (or "control") measurements made on site. 
+The resulting model is scale indeterminate. It is then imported into 3d mesh manipulation software such as cloudcompare or even sketchup. Here, the model can be scaled, according to reference (or "control") measurements made on site. 
 
  The heart of this system is software based. Opendronemap is a very good open source structure from motion solution.
 
