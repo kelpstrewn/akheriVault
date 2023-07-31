@@ -1,21 +1,20 @@
 ---
 id: GGHG
-title: GGHG and old houses
+title: Global warming greenhouse gas emissions and building
 ---
 
 
 ## The issue ## 
-None of us are doing enough to prevent global warming greenhouse gas emissions, and we are all complicit here. How much is enough? There seems to be general agreement that 2000kg C02 [per person per year](http://www.gci.org.uk/CBAT_AUBREY/CBAT/index.html#domain-2) is the sustainable level. Most of us cause the emission of 5 to 10 times this amount in a year. 
+None of us are doing enough to prevent global warming greenhouse gas emissions, and we are all complicit here. How much is enough? There seems to be general agreement that 2000kg C02 per person per year is the sustainable level. Most of us cause the emission of 5 to 10 times this amount in a year. 
  
 A long haul flight such as a flight to London and back to Auckland will use 2.5 times a persons annual C02 emission quota, without them doing anything else; living in a house, eating, driving or dressing themselves. There is in the big picture, there is a long way to go. 
  
-In NZ the building and manufacturing sectors create about 20% of gross greenhouse gas emmissions. This is emission created by building buildings, and does not include emissions that come from buildings in use, and at end of life. 
+In NZ the building and manufacturing sectors create about 20% of gross greenhouse gas emissions. This is emission created by building buildings, and does not include emissions that come from buildings in use, and at end of life. 
 
 ## The research ## 
-There is a lot of research on this. The world's various heritage and building conservation agencies all have their guidance. In 2015 sustainability was placed firmly on the agenda by organisations that are heritage thoughtleaders. 
+There is a lot of research on this. The world's various heritage and building conservation agencies all have their guidance. In 2015 sustainability was placed firmly on the agenda by organisations that are heritage thought leaders. 
 
 A [policy](https://whc.unesco.org/document/139747) was established by Unesco, the organisation that leads on world heritage sites.
-There is and is to be [expansion](https://www.iccrom.org/classifieds/classified-publication/special-issue-heritage-and-sustainable-development) on this by ICCROM, who lead in academic thought in the field.
 
 Other agencies also have material. 
 
@@ -23,7 +22,7 @@ Other agencies also have material.
 * [Scottish](https://researchportal.hw.ac.uk/files/645924/technicalpaper13.pdf) 
 * [USA](http://www.dahp.wa.gov/sites/default/files/209SustainabilityStudy_ExecutiveSummary.pdf) 
 
-In New Zealand there has largely been silence on this issue from our thoughtleaders, Heritage New Zealand. This may be about to improve, as this is a politicised organisation, and the political masters have recently changed.
+In New Zealand there has largely been silence on this issue from our thought leaders, Heritage New Zealand. 
 
 The [best paper](https://www.aicomos.com/wp-content/uploads/Heritage-Sustainability-101-full-paper-reduced-size.pdf) that I have found on old buildings and GGHG is by Dr Noni Boyd, initially from Wellington, trained in Auckland, and then acheiving success in the building conservation field in Sydney. Some of the quotations Dr Boyd provides are worth repeating here, because they are so apposite, and interesting historically, in their own right.
 
