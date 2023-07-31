@@ -17,7 +17,7 @@ Before focusing on the house look at the wider context for opportunities and con
 
 | Source           | Link url                                                                                                         | Source       | Link url                |
 | --------------- | ----------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------ |
-|1908 City Maps   |[Individual houses, hand drawn](http://www.aucklandcity.govt.nz/dbtw-wpd/CityArchives/1908Map/browse1908map.htm)   |Timespanner   |[Lisa T](https://timespanner.blogspot.com/)    |
+|1908 City Maps   |[Individual hou](http://www.aucklandcity.govt.nz/dbtw-wpd/CityArchives/1908Map/browse1908map.htm)   |Timespanner   |[Lisa T](https://timespanner.blogspot.com/)    |
 |Papers Past      |[PapersPast](http://paperspast.natlib.govt.nz/cgi-bin/paperspast)                                                  |Auckland Council GIS    |[GIS](https://geomapspublic.aucklandcouncil.govt.nz/viewer/index.html?extent=1759060.9181888425,1745765.579098164,5923021.993525178,5914065.829779518)   |
 |Council general archives |[Archives](https://www.aucklandcouncil.govt.nz/arts-culture-heritage/heritage/archives/Pages/default.aspx)   |Auckland Libraries local history archive   |[North, Shore, West](http://www.localhistoryonline.org.nz/cgi-bin/PUI)   |
 |Council property files |[Building consents](https://www.aucklandcouncil.govt.nz/buying-property/order-property-report/Pages/order-property-file.aspx)  | Auckland Libraries local history archive   |[Central](http://www.aucklandcity.govt.nz/dbtw-wpd/heritageimages/index.htm)   |
