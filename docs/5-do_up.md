@@ -11,7 +11,7 @@ Before focusing on the house look at the wider context for opportunities and con
 
 
 ## The house
-* Carefully observe and record what is there now. Measure, take photos, consider  using photogrammetry.  [Building recording](/img/https://akheritage.site/heritage/building_rec/building_recording/index.html "Building recording")
+* Carefully observe and record what is there now. Measure, take photos, consider  using photogrammetry. 
 
 * Research, look for clues as to the original form and details. Possible sources in 2018 were in this table . Since then priorities at Auckland Council and Auckland University have changed, and much of what was digitised and available is no longer available.  This is a real shame, as the digitised 1908 map was an excellent resource, and the cost implications of keeping it live on the web are trivial. The Architecture Archive had digitised curated drawings from an archive of 80,000 drawings. the loss of these is also regrettable.
 * Auckland Council now have now done a house research document of their  [own.](https://www.aucklandcouncil.govt.nz/arts-culture-heritage/heritage/Pages/researching-history-house-tamaki-makaurau-auckland.aspx)
@@ -89,5 +89,3 @@ A simple way of achieving this sympathy is through the use of materials. Other p
 
 If a contemporary approach is being taken, then the style needs to be carried through in a thoroughgoing way. In general, using decorative detail that relates to older styles will not work with this approach.
 
-
-Yet to come, front yards. Rear gardens. Roof top additions.
