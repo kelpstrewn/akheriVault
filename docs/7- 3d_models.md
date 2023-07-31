@@ -7,7 +7,7 @@ Here are a variety of 3D models which are an extension of the building recording
 ## Colonial period house ##
 The first is of an early colonial period house modelled in Sketchup. This as done directly using the original elevation drawings. The model was uploaded to sketchfab and embedded in this page.
 
-<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/e99a426686244e03a3273445fa6549a3/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="sketchfab-embed-wrapper"><iframe src="https://sketchfab.com/models/e99a426686244e03a3273445fa6549a3/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 </div>
 

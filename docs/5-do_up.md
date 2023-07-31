@@ -13,23 +13,23 @@ Before focusing on the house look at the wider context for opportunities and con
 ## The house
 * Carefully observe and record what is there now. Measure, take photos, consider  using photogrammetry.  [Building recording](/img/https://akheritage.site/heritage/building_rec/building_recording/index.html "Building recording")
 
-* Research, look for clues as to the original form and details. Possible sources in 2018 were in this table . Since then priorities at Auckland Council and Auckland University have changed, and much of what was digitised and available is no longer available.  This is a real shame, as the digitised 1908 map was an excellent resource, and the cost implications of keeping it live on the web are trivial.
-* Auckland Council now have now done a house research document of there 
+* Research, look for clues as to the original form and details. Possible sources in 2018 were in this table . Since then priorities at Auckland Council and Auckland University have changed, and much of what was digitised and available is no longer available.  This is a real shame, as the digitised 1908 map was an excellent resource, and the cost implications of keeping it live on the web are trivial. The Architecture Archive had digitised curated drawings from an archive of 80,000 drawings. the loss of these is also regrettable.
+* Auckland Council now have now done a house research document of their  [own.](https://www.aucklandcouncil.govt.nz/arts-culture-heritage/heritage/Pages/researching-history-house-tamaki-makaurau-auckland.aspx)
+
 
 | Source           | Link url                                                                                                         | Source       | Link url                |
 | --------------- | ----------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------ |
-|1908 City Maps   |[offline in 2023](http://www.aucklandcity.govt.nz/dbtw-wpd/CityArchives/1908Map/browse1908map.htm)   |Timespanner   |[Lisa T](https://timespanner.blogspot.com/)    |
+|1908 City Maps   |offline in 2023   |Timespanner   |[Lisa T](https://timespanner.blogspot.com/)    |
 |Papers Past      |[PapersPast](http://paperspast.natlib.govt.nz/cgi-bin/paperspast)                                                  |Auckland Council GIS    |[GIS](https://geomapspublic.aucklandcouncil.govt.nz/viewer/index.html?extent=1759060.9181888425,1745765.579098164,5923021.993525178,5914065.829779518)   |
-|Council general archives |[Archives](https://www.aucklandcouncil.govt.nz/arts-culture-heritage/heritage/archives/Pages/default.aspx)   |Auckland Libraries local history archive   |[offline in 2023](http://www.localhistoryonline.org.nz/cgi-bin/PUI)   |
-|Council property files |[Building consents](https://www.aucklandcouncil.govt.nz/buying-property/order-property-report/Pages/order-property-file.aspx)  | Auckland Libraries local history archive   |[offline in 2023](http://www.aucklandcity.govt.nz/dbtw-wpd/heritageimages/index.htm)   |
-|Auckland Libraries local history archive | [offline in 2023](http://manukau.infospecs.co.nz/footprints/searchA_G.htm) | Auckland Architecture Archive | offline in 2023
+|Council general archives |[Archives](https://www.aucklandcouncil.govt.nz/arts-culture-heritage/heritage/archives/Pages/default.aspx)   |Auckland Libraries local history archive   |offline in 2023 |
+|Council property files |[Building consents](https://www.aucklandcouncil.govt.nz/buying-property/order-property-report/Pages/order-property-file.aspx)  | Auckland Libraries local history archive   |offline in 2023  |
+|Auckland Libraries local history archive | offline in 2023 | Auckland Architecture Archive | offline in 2023
 | Ministry for Culture and Heritage |[ NZHistory ](https://nzhistory.govt.nz/) | Turnbull Library / National library |[Whites Aviation](http://natlib.govt.nz/photos?i%5Bcollection%5D=Whites+Aviation+Ltd+%3APhotographs&i%5Bprimary_collection%5D=TAPUHI) |
 
 _[Land Information New Zealand](https://www.linz.govt.nz/land/land-records/search-for-land-records) hold historical records, both deposited plans and titles, that will give information on previous owners, and occasionally will give a footprint plan of a building._  
 
 _[GIS](https://www.aucklandcouncil.govt.nz/geospatial/geomaps/geomaps-guides/Pages/search-layers-geomaps.aspx) contains two useful aerial photo layers, 1940 and 1959._
 
-_The Architecture Archive has until recently been curated by the Auckland University Architecture Library. It is still online at present, but with the closure of the library, there are uncertainties._
 
 * Consider the condition and usefulness of what you have. Is the foundation sound or is repiling needed? Is there sufficient clearance under the house. Is it damp? 
 * Think about the lean-to area and building services. How old are the building services? Is the lean-to well built? Are services at the end of their life and in need of replacement?

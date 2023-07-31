@@ -7,7 +7,7 @@ To get a good building or to alter an existing building well it is important to 
 
 ![drawing_joinery03](../assets/drawing_joinery03.JPG)
 
-*Double hung windows in elevation.
+*Double hung windows in elevation.*
 
 With the development of computer methods that are based around 3D computer models, that the quality of the 2D drawings, plans and particularly elevations, is in decline. This effect may be built into some of the software packages such as Revit, where for alterations work the components or families available with the software by default do not relate well to what exists on site. This is pronounced when working with the old houses of Auckland, which do not necessarily have close overseas equivalents. 
  
@@ -26,7 +26,7 @@ The control of lineweight is also important. When multiple lines are very close 
 
 ![drawing_joinery01](../assets/drawing_joinery01.JPG)
 
-*Double hung windows.
+*Double hung windows.*
  
  A PDF of the image, that can be printed to scale can be obtained from the link. There are also dxf links, at the end of this page. 
 
@@ -39,27 +39,29 @@ To continue the example I would like to carry on the discussion of an output dra
 3. A fair bit of detail should be left out at a scale 1:100, such as scribers, putty lines and detail associated with the sill profile.
 
 ![drawing_joinery01](../assets/drawing_joinery02.JPG)
-*casement windows - bungalow period.
+
+*casement windows - bungalow period.*
 
 ## Good draughting practice generally ##
-When I first began in architecture, my grandfather, a successful building contractor with an interest in design, gave me a book he had used in designing a house for himself. This book was [Draughtsmanship](/img/https://books.google.co.nz/books/about/Draughtsmanship.html?id=9fm9QAAACAAJ&redir_esc=y) by Fraser Reekie. I still refer to this on occasion and the principles of good drafting practice given here are still valid. Interestingly, with the rise in the internet a wide variety of traditional drafting instruction books are now available for free. Through the Internet archive these have been scanned, and made available for download, as they are out of copyright. Here are links to some of these. 
+When I first began in architecture, my grandfather, a successful building contractor with an interest in design, gave me a book he had used in designing a house for himself. This book was [Draughtsmanship](https://books.google.co.nz/books/about/Draughtsmanship.html?id=9fm9QAAACAAJ&redir_esc=y) by Fraser Reekie. I still refer to this on occasion and the principles of good drafting practice given here are still valid. Interestingly, with the rise in the internet a wide variety of traditional drafting instruction books are now available for free. Through the Internet archive these have been scanned, and made available for download, as they are out of copyright. Here are links to some of these. 
 
 ---
 | book | book |
 | ------ | ------ |
-|[Modern Drafting 1911](/img/https://archive.org/details/moderndrafting00mill) | [Architectural Drawing Plates 1919](/img/https://archive.org/details/ElwoodArchDrawingPlates0001)  |
-| [Progressive Steps 1919](/img/https://archive.org/details/cu31924074480520) |  [Primer of Architectural Drawing for Young Students 1910](/img/https://archive.org/stream/aprimerarchitec00danagoog#page/n100/mode/2up) |
+|[Modern Drafting 1911](https://archive.org/details/moderndrafting00mill) | [Architectural Drawing Plates 1919](https://archive.org/details/ElwoodArchDrawingPlates0001)  |
+| [Progressive Steps 1919](https://archive.org/details/cu31924074480520) |  [Primer of Architectural Drawing for Young Students 1910](https://archive.org/stream/aprimerarchitec00danagoog#page/n100/mode/2up) |
 
 
 
 ## Drawings for download ##
   
 ![drawing_joinery04](../assets/drawing_joinery04.JPG)
-*Paired and multiple double hung windows.
+
+*Paired and multiple double hung windows.*
   
 These drawings can be used as a starting point when representing a building at the common elevation scale of 1:100. The provided dxf files will work with most cad software.
 
-A further excellent resource, which includes sketch construction detail for traditional windows can be found [here](/img/https://www.renovate.org.nz/villa/windows-doors-other-joinery-and-hardware/windows/), on the Branz Renovate website. 
+A further excellent resource, which includes sketch construction detail for traditional windows can be found [here](https://www.renovate.org.nz/villa/windows-doors-other-joinery-and-hardware/windows/), on the Branz Renovate website. 
 
 [traditional_timber_joinery-double_hung_pair](../assets/heritage/drawing_joinery/traditional_timber_joinery-double_hung_pair.pdf)
 [traditional_timber_joinery-double_hung_pair dxf](../assets/heritage/drawing_joinery/traditional_timber_joinery-double_hung_pair.dxf)
