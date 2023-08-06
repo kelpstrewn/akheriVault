@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe3220d963fe87e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/4-decoration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/b1/2023-06-31-comments.md",
+                "file": "docs/4-decoration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/b1/2023-06-31-comments.md",
+                "file": "docs/4-decoration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/b1/2023-06-31-comments.md"
+                "file": "docs/4-decoration.md"
               }
             }
           }
@@ -146,16 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "839ee127c732d2be",
+  "active": "fe3220d963fe87e0",
   "lastOpenFiles": [
+    "docs/3-context.md",
+    "docs/2-how_old.md",
+    "docs/1-About this site.md",
     "docs/5-do_up.md",
     "docs/4-decoration.md",
     "docs/9-Global warming greenhouse gas emissions and building.md",
     "docs/8-building_recording.md",
     "docs/7- 3d_models.md",
     "docs/6-drawing_joinery.md",
-    "docs/2-how_old.md",
-    "assets/heritage/drawing_joinery/traditional_timber_joinery-double_hung_fancy_architrave.pdf",
-    "docs/1-About this site.md"
+    "assets/heritage/drawing_joinery/traditional_timber_joinery-double_hung_fancy_architrave.pdf"
   ]
 }
